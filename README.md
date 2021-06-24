@@ -6,6 +6,7 @@ multiple upload files in nodejs
 cd ~
 git clone https://github.com/Dedimoe/multiple-upload.git
 cd multiple-upload
+mkdir uploads
 cp package.json-dedi package.json
 npm install
 ```
