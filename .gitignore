@@ -1,4 +1,6 @@
 package.json
+uploads/*
+
 # Logs
 logs
 *.log
