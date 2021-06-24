@@ -1,0 +1,15 @@
+{
+  "name": "multiple-upload",
+  "version": "1.0.0",
+  "description": "multiple upload files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dedi Mulyadi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
